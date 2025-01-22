@@ -2,7 +2,7 @@
 layout: post
 title: "[draft] Kickstart your learning in 2025"
 date: 2025-01-22
-last_modified_at: 2025-01-22 16:31
+last_modified_at: 2025-01-22 17:21
 ---
 
 Hello!
