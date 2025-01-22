@@ -5,3 +5,5 @@ date: 2025-01-22
 ---
 
 This is a test post! Thanks for viewing move on to the next one :)
+
+{{ page.last_modified_at | date: "%Y-%m-%d %H:%M" }}
