@@ -3,9 +3,9 @@ layout: default
 title: Home
 ---
 
-# Welcome to My Blog!
+# Welcome!
 
-This is the homepage of my blog.
+This is the index page of my blog.
 
 Check out my latest posts:
 
