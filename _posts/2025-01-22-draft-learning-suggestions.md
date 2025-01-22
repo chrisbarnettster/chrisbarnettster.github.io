@@ -11,11 +11,8 @@ This might help kickstart your learning in 2025!
 
 This is a draft post, so expect updates over time. Below, I’ve listed courses I’m currently exploring, recommending, or excited about, with brief reasons for each.
 
-The table includes the course name, provider, duration, cost (subject to change), and whether I’ve taken it.
+The table (embedded below, and feel free to download it) includes the course name, provider, duration, cost (subject to change), and whether I’ve taken it.
 At this stage, I’m recommending all of these for some reason or other. I haven't yet added any particular recommendations or rating. I've also shared a short reason why and whether I've taken the course.
-
-
-<h2>Check out this data from Google Sheets!</h2>
 
 <iframe src="https://docs.google.com/spreadsheets/d/1sNRZZqXSqXIj8HrWc--Vu7hd_pI0yp6bEnzYo1kXgvs?output=html" width="800" height="600"></iframe>
 
