@@ -6,7 +6,7 @@ last_modified_at: 2025-08-22T14:11:18.112Z
 ---
 This document was converted from a Google Doc. You can view the original document [here](https://docs.google.com/document/d/1lCcKFIhXv825lHF-IWbGKUwXrzpQRSKi7PupFhuIjCE/edit?usp=drivesdk)
 
-<iframe src="https://docs.google.com/document/d/1lCcKFIhXv825lHF-IWbGKUwXrzpQRSKi7PupFhuIjCE?output=html" width="800" height="600"></iframe>
+<iframe src="https://docs.google.com/document/d/1lCcKFIhXv825lHF-IWbGKUwXrzpQRSKi7PupFhuIjCE/preview" width="800" height="600"></iframe>
 
 <footer>
   {% if page.last_modified_at %}
