@@ -1,8 +1,8 @@
 # Site settings
-title: arxiv posts
+title: Noted
 email: chrisbarnettster@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Drafting some posts in blog format. arxiv, pre-release concept.
+  Notes on ideas, experiments, and early concepts.
 github_username:  chrisbarnettster
 theme: minima
 # Build settings
